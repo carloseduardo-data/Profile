@@ -1,31 +1,51 @@
- <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/carlos-eduardo-carneiro-68a037187/"><i>Kadu</i></a> 😃️</h1>
-<div>
+<h1 align="left">Olá! Seja Bem Vindo ao Meu Perfil</h1>
 
- <div align="center">
-  <a href="https://github.com/Kaducc">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Kaducc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaducc&layout=compact&langs_count=7&theme=dark"/>
-    
-</div>
-   <div align="center" valign="top"><br>
- <img align="center" alt="Kadu-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- <img align="center" alt="Kadu-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Kadu-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Kadu-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+###
+
+<p align="left">Meu nome é Carlos Eduardo e sou Programador Python focado em Automação, ETL e Análise de Dados.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Desenvolvedor focado em automação, processamento de dados e criação de ferramentas práticas usando Python. Gosto de transformar tarefas manuais em soluções rápidas, inteligentes e escaláveis.<br><br>Trabalho criando scripts, ETLs, pipelines, dashboards, bots e automações operacionais, sempre com foco em desempenho, produtividade e clareza de dados.</p>
+
+###
+
+<h4 align="left">Principais Tecnologia</h4>
+
+###
+
+<p align="left">Automação de processos, ETL, tratamento de dados, web scraping, bots com Python, dashboards (Plotly/Power BI) e protótipos no Figma.</p>
+
+###
+
+<h4 align="left">Linguagens e Ferramentas</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-  ##
-  
-  <div align="center" valign="top"><br>
-     <a href="https://www.youtube.com/channel/UCcH_EVCv5IvKDuk_-ELg6yQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/kaduc_e/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kaduc/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/kaduc_e" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="mailto:carloseduardocarneiro928@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </div>
-  
-<div align="center">
-  
-  ![Snake animation](https://github.com/Kaducc/Kaducc/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseduardo-data/carloseduardo-data/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseduardo-data/carloseduardo-data/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/carloseduardo-data/carloseduardo-data/output/pacman-contribution-graph.svg">
+</picture>
+
+###
